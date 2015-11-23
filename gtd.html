@@ -1,0 +1,31 @@
+
+<html>
+<header>
+
+</header>
+<body>
+
+<p>Click the button to create a window and then display the name of the new window.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+
+ var Name = prompt("Name?");
+var Age = prompt("Age?");
+var Gender = prompt("Gender?");
+
+function myFunction() {
+
+     var myWindow = window.open("", "MsgWindow", "width=200, height=100");
+
+  myWindow.document.write(
+
+    "<p>This window's name is: " + myWindow.name + "</p><h1>Your name: " + Name + "<h2>Your age: " + Age + "<h3>Your gender: " + Gender + ".");
+  }
+
+
+</script>
+
+</body>
+</html>

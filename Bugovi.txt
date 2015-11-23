@@ -1,0 +1,60 @@
+@samosale the initial bgs are loading fast when i click the change bg button BUT while playing, it changes the bgs and freezes the browser for a moment which troubles the game play. And these bgs which changes during playing is still SLOWWWW... 
+@samosale Just noticed, if I double click the simon buttons to quickly solve it, it doesn't make any sounds but registers it as two clicks on the button. So from a user's perspective, the double click didn't work twice and when click on it once more, then the play is invalid.
+samosale 22:43
+ok i will fix that, I must go now, Tell me if there are more bugs. tnx!
+camperbot 22:43
+if you want to thank someone, put an @ before their name!
+abhisekp 22:46
+@samosale sometimes, the buttons don't highlight properly (primarily the green and yellow buttons). So I have depend on my brain's sound storing and memory capability to recall the pattern. No VISUAL memory working. 
+@samosale if I double clicked in a previous attempt to solve it and failed, then in the next attempts, there are more sounds than the number of patterns.
+@samosale btw, you could've pushed it to github and I could have opened some issues with these bugs and feature enhancements.
+@samosale even if you don't push it to github, at least create a repo so that i can post the issues.
+NOTE: I won't do it for the issues i've reported earlier. You've to do it manually. 
+abhisekp 22:55
+@samosale Check my gameplay 
+I'm only using my auditory sense and memory to solve it.
+NO or LIMITED visual sensory usage because of the bad highlighting while initiating the playing.  
+
+ NOTE: in the 15th gameplay (after 14th), while initiating the pattern, it doesn't highlight the YELLOW btn properly.
+@samosale btw, #perfmatters
+abhisekp 23:00
+@samosale I'm not going to look it any more. Maybe @SaintPeter will.
+OK. After all the criticism, I  your game. 
+It's awesome to play. Nice! 
+SaintPeter 23:02
+@samosale Wow, fancy shmancy!
+@samosale I don't think I have much more to say than what @abhisekp has already said. It does seem a bit dark, yet.
+abhisekp 23:08
+@samosale I was playing this awesome Simon game but multiple button presses before initiating a pattern gives weird initiation patterns.
+
+@samosale @SaintPeter Just scored 18 using auditory senses and memory. Limited Visual memory usage.
+
+abhisekp 23:14
+@samosale What's the max. number of retries? 3 initially, then later 5 is a good number when score increases past 20 or 25. 
+@samosale I just scored 20 and won the game. But it's not a good idea to show it in an alert box. Show it in a modal dialog.
+
+Also it should update my score and then show that alert (or modal dialog) about winning.
+abhisekp 23:21
+@samosale there must be some delay between one pattern trial i made and another pattern initiation.
+EngineeredEdge 23:25
+hola everyone
+abhisekp 23:29
+@samosale Deep respect to my maker for my auditory senses. Just scored 23. Check the gameplay and fix my visual pattern recognition. 
+
+@samosale notice the edge case where it initiates a new pattern after solving the previous one and updating the score.
+The score is updated after it highlights the YELLOW btn i.e. the YELLOW btn is highlighted before every pattern initiation. BUG?
+abhisekp 23:36
+@samosale btw, it's not so good to create a project using codepen.io
+It's OK to share it using codepen but writing the whole project in it is not a good idea. Use http://jsbin.com or http://plnkr.co for creating these projs.
+abhisekp 23:44
+@samosale There must be some way that my pattern be saved locally and loaded next time I try to play it after reopening my browser. I can't afford to loose my pattern that I've memorized. 
+abhisekp 00:01
+@samosale It's very buggy now. So don't limit the retries just yet. I've retries many times due to lack of proper audio visual patterns sometimes. 
+btw, there shud be a retry btn apart from the click on wrong COLORed buttons to retry.
+abhisekp 00:11
+@samosale I just hit 33
+
+ It's 3:41 AM and this game is awesome!!  I  it
+Now I'm done 
+samosale 00:13
+
